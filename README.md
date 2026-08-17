@@ -27,10 +27,6 @@
 </p>
 
 
-<!-- ========================================================= -->
-<!--                     GITHUB STATS                          -->
-<!-- ========================================================= -->
-
 ## 📊 GitHub Stats
 
 <p>
@@ -39,14 +35,8 @@
 </p>
 
 ## 📈 GitHub Commit
-
-<!-- Thu nhỏ còn 70% kích thước ban đầu -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuna222007&theme=dracula&utcOffset=8" width="40%" />
 
-
-<!-- ========================================================= -->
-<!--                        CONTACT                            -->
-<!-- ========================================================= -->
 
 ## 📫 Contact
 
