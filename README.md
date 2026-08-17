@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/evan.jpg" width="65%">
+  <img src="./img/evan.jpg" width="70%">
 </p>
 
 <h1 align="center">Hi, I'm Ngọc Ánh 👋</h1>
